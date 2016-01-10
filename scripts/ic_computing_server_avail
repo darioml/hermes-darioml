@@ -1,0 +1,4 @@
+#!/bin/bash
+
+b=$(doc_server_availability ray)
+print $b
